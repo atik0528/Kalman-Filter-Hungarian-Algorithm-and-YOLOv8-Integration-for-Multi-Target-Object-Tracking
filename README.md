@@ -108,8 +108,15 @@ To contribute:
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
-## License
+## References
 
+Kalman, R. E. (1960). A New Approach to Linear Filtering and Prediction Problems. Journal of Basic Engineering, 82(1), 35-45. doi:10.1115/1.3662552
+
+Kuhn, H. W. (1955). The Hungarian method for the assignment problem. Naval Research Logistics Quarterly, 2(1-2), 83-97. doi:10.1002/nav.3800020109
+
+Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). You Only Look Once: Unified, Real-Time Object Detection. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+Jocher, G. (2023). YOLOv8: Real-Time Object Detection. Ultralytics. Available at: https://github.com/ultralytics/yolov8
 
 ## Contact
 If you have any questions or suggestions regarding this project, please feel free to reach out via GitHub issues.
