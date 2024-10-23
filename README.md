@@ -109,7 +109,7 @@ To contribute:
 5. Create a new Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
 If you have any questions or suggestions regarding this project, please feel free to reach out via GitHub issues.
